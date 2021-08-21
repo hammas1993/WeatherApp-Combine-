@@ -35,7 +35,6 @@ class ViewController: UIViewController
                 }
             }
             .assign(to: \.text, on: self.weather)
-            
     }
     
 
